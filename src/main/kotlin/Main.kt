@@ -21,7 +21,7 @@ fun main(args: Array<String>) {
     }
     // using lets-plot API to build a histogram
     val data = mapOf("words in sentence" to stringAnalytics)
-    val p = letsPlot(data) {x = "word in sentence"} +
+    val p = letsPlot(data) {x = "words in sentence"} +
             geomHistogram(binWidth = 1) + ggsize(1000, 500)
     // save it
     ggsave(p, "histogram.png")
