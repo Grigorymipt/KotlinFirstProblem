@@ -1,0 +1,1 @@
+/home/green/IdeaProjects/TextAnalyzer/build/classes/kotlin/main/MainKt$main$p$1.class:/home/green/IdeaProjects/TextAnalyzer/build/classes/kotlin/main/MainKt.class
